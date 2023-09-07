@@ -62,4 +62,5 @@ On step 2 you can provide the port, host, executable, etc... just type `python -
 ## Credits
 
 Thanks to [Lucas Campagna](https://github.com/lucas-campagna) who wrote the following packages
+
 Original repository : https://github.com/lucas-campagna/mt5linux
