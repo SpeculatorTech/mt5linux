@@ -1,4 +1,4 @@
 numpy
 plumbum
 pyparsing
-rpy
+rpyc==5.2.3
