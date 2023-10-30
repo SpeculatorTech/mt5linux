@@ -19,7 +19,7 @@ pip install MetaTrader5
 pip install --upgrade MetaTrader5
 ```
 
-5. Install this package on both **Windows** and **Linux** Python versions:
+5. Install this package on **Linux** Python versions:
 
 ```
 pip install mt5linux
